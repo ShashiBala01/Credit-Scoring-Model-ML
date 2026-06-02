@@ -71,5 +71,5 @@ The project successfully classified individuals into different credit score cate
 
 ## Author
 
-Kashish Chauhan
+Shashi Bala
 B.Tech CSE (AI & ML)
